@@ -11,16 +11,16 @@ Lastest Update: 31th Oct 2023&nbsp;
 - [The optimized probabilistic recommendation model in exposure bias](https://ace.ewapublishing.org/article.html?pk=bf0442f3888a4a4897ff6547b649597f)<br>**Yizhao Chen**,  Han Li, Ruiyang Liu, Yuanbang Wu<br>Proceedings of the 3rd International Conference on Signal Processing and Machine Learning. Oxford, UK. February, 2023.
 
   <br>
----
+
 ## Journal Paper
 
 - Coming soon... 🚀
 
   <br>
----
+
 ## Working Manuscript
 
-- Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning.<br>International Conference on Data Engineering(ICDE2024). Under review.<br>
+- Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning.<br>International Conference on Data Engineering(ICDE2024). <br>(Under review).<br>
 
   <br>
 

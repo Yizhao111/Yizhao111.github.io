@@ -4,7 +4,7 @@ My name is **Yizhao Chen (Steven, 陈艺钊)**. Here is my personal website. Wel
 
 ## Update and News
 
-- **Dec. 2022:** My personal website have been implemented and deployed in [yizhao111.github.io.com](https://yizhao111.github.io.com)
+- **Dec. 2022:** My personal website have been implemented and deployed in [yizhao111.github.io](https://yizhao111.github.io/)
 
 <!-- ## Star History
 

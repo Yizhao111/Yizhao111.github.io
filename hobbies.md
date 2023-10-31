@@ -7,13 +7,12 @@ title: Hobbies
 # Hobbies
 
 ## Teaching & Workshops
-
 <!-- <div class="third">
 <img src="/images/prelection1.JPG">
 <img src="/images/speech1.JPG">
 <img src="/images/speech3.JPG">
 </div> -->
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at Northeastern University.
+There must be **something truly magical** about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at Northeastern University.
 
 <!-- [a fantastic speech]:https://youtu.be/Dzx84KpGNoE
 [best universities in my hometown]:https://www.fzu.edu.cn/ -->
@@ -21,13 +20,12 @@ title: Hobbies
 
 
 ## Sports & Relax
-
 <!-- <div class="third">
 <img src="/images/swimming2.JPG">
 <img src="/images/swimming.JPG">
 <img src="/images/surfing1.JPG">
 </div> -->
-<br>Sports remove my worries, refresh my body, and bring me courage to address any challenges. I extremely enjoy the feeling of being immersed in the exercise. Recently, I am also keen on surfing.
+Sports remove my worries, refresh my body, and bring me courage to address any challenges. I extremely enjoy the feeling of being immersed in these exercises, especially basketball and table tennis. Recently, I am also keen on surfing.
 
 ## Past Hobbies
 
@@ -48,7 +46,7 @@ This is my love. Her name is JAY.
 
 <!-- Calendly inline widget begin -->
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script> -->
+<!-- <div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script> --> -->
 <!-- Calendly inline widget end -->
 
