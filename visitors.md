@@ -3,6 +3,7 @@ layout: page
 permalink: /visitors/index.html
 title: Visitors
 ---
+Lastest Update: 31th Oct 2023&nbsp;
 ## Visitor Log 访客记录
 
 <br>

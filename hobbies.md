@@ -3,7 +3,7 @@ layout: page
 permalink: /hobbies/index.html
 title: Hobbies
 ---
-
+Lastest Update: 31th Oct 2023&nbsp;
 # Hobbies
 
 ## Teaching & Workshops
