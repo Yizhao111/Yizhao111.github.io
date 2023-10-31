@@ -8,15 +8,17 @@ layout: page
 
 Here is **Yizhao Chen(Steven 陈艺钊)**.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
+I am a third-year bachelor’s student at Northeastern University, majoring in Software Engineering. Besides a strong interest in coding, I’m also keen on mathematics. Currently, I work as a research assistant in the NEUDM-Lab, advised by [Prof. Shi Fen](http://faculty.neu.edu.cn/cse/fengshi). I have worked as a remote research assistant at Carnegie Mellon University, advised by [Prof. David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/)I also spent a lovely summer research program with [Prof. Hien Tran](https://math.sciences.ncsu.edu/people/tran/)'s team at NC State University.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I currently have a focus on inverse rendering problems, especially on the part of the Diversity-enhanced Conversational Recommendation and Multi-agent Reinforcement Learning.
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *545114583[dot]qq[dot]com*
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for Master to start in 2024 Fall. Contact me if you have any leads!**
 
 - **Sep 2020 - June 2024:** Northeastern University (BEng)
 
