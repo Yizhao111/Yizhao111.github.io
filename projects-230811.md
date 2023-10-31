@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/index.html
 title: Projects
 ---
-
+Lastest Update: 31th Oct 2023&nbsp; 
 # Research Projects
 
 P.S. click the hyperlink title to access the source.<br>
