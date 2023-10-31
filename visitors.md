@@ -12,7 +12,7 @@ title: Visitors
 <br>
 <!-- ## Message 留言板
 
-<br>
+<!-- <br>
 
 {% include disqus.html %} 
 
