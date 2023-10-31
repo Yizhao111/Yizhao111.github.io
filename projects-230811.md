@@ -41,7 +41,7 @@ P.S. click the hyperlink title to access the source.<br>
 ---
 
 # Open-source Projects
-
+P.S. click the hyperlink title to access the source.
 <br>
 
 ## [NEU-flying-book](https://Yizhao111.github.io/file/NEU-flybook.pdf)
