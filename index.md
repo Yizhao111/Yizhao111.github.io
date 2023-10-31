@@ -12,9 +12,9 @@ I am a third-year bachelor’s student at Northeastern University, majoring in S
 
 Currently, I work as a research assistant in the NEUDM-Lab, advised by [Prof. Shi Fen](http://faculty.neu.edu.cn/cse/fengshi). I have worked as a remote research assistant at Carnegie Mellon University, advised by [Prof. David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/).I also spent a lovely summer research program with [Prof. Hien Tran](https://math.sciences.ncsu.edu/people/tran/)'s team at NC State University.
 
-I currently have a focus on inverse rendering problems, especially on the part of the **Conversational Recommendation** and **Reinforcement Learning**.
+I currently have a focus on inverse rendering problems, especially on the part of the **Conversational Recommendation** and **Reinfor-cement Learning**.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *545114583[at]qq[dot]com* 
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *545114583@qq.com* 
 
 <br>
 

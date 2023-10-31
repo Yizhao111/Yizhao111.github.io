@@ -20,7 +20,7 @@ Lastest Update: 31th Oct 2023&nbsp;
 
 ## Working Manuscript
 
-- Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning.<br>International Conference on Data Engineering(ICDE2024). <br>(Under review).<br>
+- Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning.<br>International Conference on Data Engineering(ICDE2024). <br>(Under review)<br>
 
   <br>
 
