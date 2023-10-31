@@ -51,6 +51,11 @@ P.S. click the hyperlink title to access the source.<br>
 
 This is the flying handbook for NEU students. Many outstanding graduates of Northeastern University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
 
+## [AI-freight-management-center](https://github.com/Yizhao111/AI-freight-management-center)
+
+This is an AI-powered software system for managing and tracking logistics and distribution operations. I am responsible for designing and implementing the Customer Service Center module.
+
+
 <!-- #### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
 
 Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
