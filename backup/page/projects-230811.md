@@ -8,10 +8,10 @@ title: Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
-#### [OpenIoT: Industrial Inspection System](https://fzuiot.site/)
+#### [Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning](https://fzuiot.site/)
 
 <center>
-<img src="/images/openiot-system.png">
+<img src="/images/CRS.png">
 </center>
 
 <br>

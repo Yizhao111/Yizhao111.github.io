@@ -4,13 +4,13 @@ permalink: /visitors/index.html
 title: Visitors
 ---
 
-## Message 留言板
+<!-- ## Message 留言板
 
 <br>
 
 {% include disqus.html %} 
 
-<br>
+<br> -->
 
 ## Visitor Log 访客记录
 
