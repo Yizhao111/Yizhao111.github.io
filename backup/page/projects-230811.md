@@ -18,22 +18,27 @@ P.S., click the hyperlink title to access the source.<br>
 
 #### [PICA: Unleashing The Emotional Power of Large Language Model](https://github.com/Yizhao111/PICA)
 <center>
-<img src="/images/PICA.jpg">
+<img src="/images/PICA.png">
 </center>
 <br>
 
 #### [The Optimized Probabilistic Recommendation Model in Exposure Bias](https://yizhao111.github.io/mypaper/paper_bias.pdf)
 
 <center>
+<div class="third">
+<img src="/images/swimming2.JPG">
+<img src="/images/Combined-Model.png">
+<img src="/images/surfing1.JPG">
+</div>
 <img src="/images/Combined-Model.png">
 </center>
 
 <br>
 
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
+#### [Predicting Regime Switching in Capital Markets from Economic Trends](https://Yizhao111.github.io/mypaper/paper_predict.pdf)
 
 <center>
-<img src="/images/iot-manager.png">
+<img src="/images/predict.png">
 </center>
 <br>
 
