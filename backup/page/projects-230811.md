@@ -8,7 +8,7 @@ title: Projects
 
 P.S. click the hyperlink title to access the source.<br>
 
-#### [Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning](https://fzuiot.site/)
+#### [Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning](https://yizhao111.github.io/mypaper/CRS.pdf)
 
 <center>
 <img src="/images/CRS.png" width="473" height="219">
@@ -19,7 +19,7 @@ P.S. click the hyperlink title to access the source.<br>
 4. Still under working that will be finalized in Feb 2023, and the latest manuscript can be found [here](https://caihanlin.com/mypaper/202210camb.pdf) (30th Dec 2022).
 <br>
 
-#### [PICA: Unleashing The Emotional Power of Large Language Model](https://yizhao111.github.io/mypaper/CRS.pdf)
+#### [PICA: Unleashing The Emotional Power of Large Language Model](https://github.com/Yizhao111/PICA)
 <center>
 <img src="/images/PICA.png" width="473" height="219">
 </center>
@@ -51,7 +51,7 @@ P.S. click the hyperlink title to access the source.<br>
 
 This is the flying handbook for NEU students. Many outstanding graduates of Northeastern University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
 
-## [AI-freight-management-center](https://github.com/Yizhao111/AI-freight-management-center)
+#### [AI-freight-management-center](https://github.com/Yizhao111/AI-freight-management-center)
 
 This is an AI-powered software system for managing and tracking logistics and distribution operations. I am responsible for designing and implementing the Customer Service Center module.
 
