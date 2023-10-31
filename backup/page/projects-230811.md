@@ -19,7 +19,7 @@ P.S. click the hyperlink title to access the source.<br>
 4. Still under working that will be finalized in Feb 2023, and the latest manuscript can be found [here](https://caihanlin.com/mypaper/202210camb.pdf) (30th Dec 2022).
 <br>
 
-#### [PICA: Unleashing The Emotional Power of Large Language Model](https://github.com/Yizhao111/PICA)
+#### [PICA: Unleashing The Emotional Power of Large Language Model](https://yizhao111.github.io/mypaper/CRS.pdf)
 <center>
 <img src="/images/PICA.png" width="473" height="219">
 </center>
