@@ -8,7 +8,7 @@ title: Projects
 
 P.S. click the hyperlink title to access the source.<br>
 
-#### [Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning](https://fzuiot.site/)
+#### [Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning](https://yizhao111.github.io/mypaper/CRS.pdf)
 
 <center>
 <img src="/images/CRS.png" width="473" height="219">
@@ -47,6 +47,11 @@ P.S. click the hyperlink title to access the source.<br>
 ## [NEU-flying-book](https://Yizhao111.github.io/file/NEU-flybook.pdf)
 
 This is the flying handbook for NEU students. Many outstanding graduates of Northeastern University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
+
+## [AI-freight-management-center](https://github.com/Yizhao111/AI-freight-management-center)
+
+This is an AI-powered software system for managing and tracking logistics and distribution operations. I am responsible for designing and implementing the Customer Service Center module.
+
 
 <!-- #### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
 
