@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yizhao Chen(Steven 陈艺钊)**.
 
-I am a third-year bachelor’s student at Northeastern University, majoring in Software Engineering. Besides a strong interest in coding, I’m also keen on mathematics. 
+I am a fourth-year **bachelor’s** student at **Northeastern University**, majoring in **Software Engineering**. Besides a strong interest in coding, I’m also keen on mathematics. 
 
 Currently, I work as a research assistant in the NEUDM-Lab, advised by [Prof. Shi Fen](http://faculty.neu.edu.cn/cse/fengshi). I have worked as a remote research assistant at Carnegie Mellon University, advised by [Prof. David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/). I also spent a lovely summer research program with [Prof. Hien Tran](https://math.sciences.ncsu.edu/people/tran/)'s team at NC State University.
 
