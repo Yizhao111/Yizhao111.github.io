@@ -16,7 +16,7 @@ Lastest Update: 31th Oct 2023&nbsp; 
 - Mar 2023：Student Representative of HunNan Campus of Northeastern University **(Only 10/2000)**
 - Oct 2022：**Excellent Student Cadre Model(Top 1%)**
 - Oct 2022：Second Class Scholarship
-- Oct 2021：Outstanding Student of Northeastern University **(Top 3%)**
+- Oct 2021：Outstanding Student of NEU **(Top 3%)**
 - Oct 2021：Second Class Scholarship
 
 
@@ -24,7 +24,7 @@ Lastest Update: 31th Oct 2023&nbsp; 
 ## Services
 - Sep 2021 - Sep 2024：Monitor of Software Engineering of NEU
 - Sep 2021 - Sep 2022：Present of Science and Technology Organization of NEU
-- Apr 2021 - Sep 2022: Cadre of artificial Intelligence Club 
+- Apr 2021 - Sep 2022：Cadre of artificial Intelligence Club 
 - Sep 2020 - Sep 2021：Study Commissioner of Class 2002
 
 <!-- ## Scholarships
