@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
+<img src="https://yizhao111.github.io/chenyizhao.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yizhao Chen(Steven 陈艺钊)**.
 
@@ -41,11 +41,12 @@ My current research focuses on practical problems that artificial intelligence f
 ## News and Updates
 
 - **May 2023：**Work as a research assistant in the NEUDM-Lab[https://github.com/NEU-DataMining], advised by [Prof. Shi Fen].
-<!-- - **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%). -->
+
 - **Jul 2022：**Worked as a remote research assistant at Carnegie Mellon University, advised by Prof. David P. Woodruff.
 - **Jun 2022：**Started research program at NC State University, advised by Prof. Hien Tran.
 
 <br>
 
+<!-- - **Aug 2023：**Happy to be awarded the FEPG Scholarship.
+- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
+- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%). -->
