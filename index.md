@@ -12,7 +12,7 @@ I am a third-year bachelor’s student at Northeastern University, majoring in S
 
 I currently have a focus on inverse rendering problems, especially on the part of the Diversity-enhanced Conversational Recommendation and Multi-agent Reinforcement Learning.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *545114583.qq.com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *545114583.qq.com* 
 
 <br>
 
@@ -22,7 +22,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2020 - June 2024:** Northeastern University (BEng)
 
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
+- Expect to apply for a two-year Mphil program and graduate in Sep 2026. Looking for PhD position after that.
 
 <br>
 
