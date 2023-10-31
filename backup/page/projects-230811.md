@@ -11,34 +11,28 @@ P.S., click the hyperlink title to access the source.<br>
 #### [Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning](https://fzuiot.site/)
 
 <center>
-<img src="/images/CRS.png">
+<img src="/images/CRS.png" width="473" height="219">
 </center>
 
 <br>
 
 #### [PICA: Unleashing The Emotional Power of Large Language Model](https://github.com/Yizhao111/PICA)
 <center>
-<img src="/images/PICA.png">
+<img src="/images/PICA.png" width="473" height="219">
 </center>
 <br>
 
 #### [The Optimized Probabilistic Recommendation Model in Exposure Bias](https://yizhao111.github.io/mypaper/paper_bias.pdf)
 
 <center>
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/Combined-Model.png">
-<img src="/images/surfing1.JPG">
-</div>
-<img src="/images/Combined-Model.png">
+<img src="/images/Combined-Model.png" width="473" height="219">
 </center>
-
 <br>
 
 #### [Predicting Regime Switching in Capital Markets from Economic Trends](https://Yizhao111.github.io/mypaper/paper_predict.pdf)
 
 <center>
-<img src="/images/predict.png">
+<img src="/images/predict.png" width="473" height="219">
 </center>
 <br>
 
@@ -50,9 +44,9 @@ P.S., click the hyperlink title to access the source.<br>
 
 <br>
 
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
+## [NEU-flying-book](https://Yizhao111.github.io/file/NEU-flybook)
 
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
+This is the flying handbook for NEU students. Many outstanding graduates of Northeastern University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
 
 #### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
 
