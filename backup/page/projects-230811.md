@@ -16,17 +16,16 @@ P.S., click the hyperlink title to access the source.<br>
 
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
-
+#### [PICA: Unleashing The Emotional Power of Large Language Model](https://github.com/Yizhao111/PICA)
 <center>
-<img src="/images/MCM-figure3.jpg">
+<img src="/images/PICA.jpg">
 </center>
 <br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+#### [The Optimized Probabilistic Recommendation Model in Exposure Bias](https://yizhao111.github.io/mypaper/paper_bias.pdf)
 
 <center>
-<img src="/images/resnet-ahp.png">
+<img src="/images/Combined-Model.png">
 </center>
 
 <br>
