@@ -12,7 +12,7 @@ I am a third-year bachelor’s student at Northeastern University, majoring in S
 
 I currently have a focus on inverse rendering problems, especially on the part of the Diversity-enhanced Conversational Recommendation and Multi-agent Reinforcement Learning.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *545114583[dot]qq[dot]com* 
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *545114583(dot)qq(dot)com* 
 
 <br>
 
