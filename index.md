@@ -41,7 +41,6 @@ My current research focuses on practical problems that artificial intelligence f
 ## News and Updates
 
 - **May 2023：**Work as a research assistant in the NEUDM-Lab[https://github.com/NEU-DataMining], advised by [Prof. Shi Fen].
-
 - **Jul 2022：**Worked as a remote research assistant at Carnegie Mellon University, advised by Prof. David P. Woodruff.
 - **Jun 2022：**Started research program at NC State University, advised by Prof. Hien Tran.
 
