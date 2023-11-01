@@ -45,14 +45,10 @@ P.S. click the hyperlink title to access the source.<br>
 P.S. click the hyperlink title to access the source.
 <br>
 
-## [NEU-flying-book](https://Yizhao111.github.io/file/NEU-flybook.pdf)
-
-This is the flying handbook for NEU students. Many outstanding graduates of Northeastern University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
-
 ## [AI-freight-management-center](https://github.com/Yizhao111/AI-freight-management-center)
 
-This is an AI-powered software system for managing and tracking logistics and distribution operations. I am responsible for designing and implementing the Customer Service Center module.<br>
-**In this project, I:**<br>
+This is an AI-powered software system for managing and tracking logistics and distribution operations. I am responsible for designing and implementing the Customer Service Center module.<br><br>
+**In this project, I:**
 - Collaborated with the development team to create an AI-powered software system for managing and tracking logistics and distribution operations, responsible for designing and implementing the Customer Service Center module 
 - Innovatively integrated a "Knowledge-Based Q&A System" into the Customer Service Center module trained by NLP, enabling the creation of an intelligent chatbot that operates while safeguarding company privacy
 - Employed Vue3 and Bootstrap component library with Streamlit to design user-friendly interfaces that enhanced user experience, meanwhile establishing a robust proxy between frontend and backend using Nginx to improve system stability and responsiveness
@@ -60,8 +56,8 @@ This is an AI-powered software system for managing and tracking logistics and di
 
 ## [A Simulated Banking System ](https://github.com/Yizhao111/AI-freight-management-center)
 
-Here is a banking simulation system enabling features for simulating banking transactions and batch task processing, functions included fund transfers, salary payments, withdrawals, deposits, and interest calculations.<br>
-**In this project, I:**<br>
+Here is a banking simulation system enabling features for simulating banking transactions and batch task processing, functions included fund transfers, salary payments, withdrawals, deposits, and interest calculations.<br><br>
+**In this project, I:**
 - Integrated multithreading techniques with the Java Swing framework to handle ten thousand simulated users with around two hundred million records
 - Used Socket-based network programming to create a client-server architecture and the Runnable interface and member functions to control thread pausing and resuming. 
 
