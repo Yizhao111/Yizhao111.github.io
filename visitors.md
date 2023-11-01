@@ -8,5 +8,5 @@ Lastest Update: 31th Oct 2023&nbsp;
 
 <br>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HOkp542jK9mEk1kvXvRzv0cR1-UhIS9iO5m5TkZ9fgU"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HOkp542jK9mEk1kvXvRzv0cR1-UhIS9iO5m5TkZ9fgU&cl=ffffff&w=a"></script>
 <br>
