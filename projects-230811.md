@@ -41,6 +41,7 @@ P.S. click the hyperlink title to access the source.<br>
 ---
 
 # Open-source Projects
+
 P.S. click the hyperlink title to access the source.
 <br>
 
@@ -52,6 +53,13 @@ This is the flying handbook for NEU students. Many outstanding graduates of Nort
 
 This is an AI-powered software system for managing and tracking logistics and distribution operations. I am responsible for designing and implementing the Customer Service Center module.
 
+
+## [a Simulated Banking System ](https://github.com/Yizhao111/AI-freight-management-center)
+
+Here is a banking simulation system enabling features for simulating banking transactions and batch task processing, functions included fund transfers, salary payments, withdrawals, deposits, and interest calculations.<br>
+In this project, I:<br>
+- Integrated multithreading techniques with the Java Swing framework to handle ten thousand simulated users with around two hundred million records
+- Used Socket-based network programming to create a client-server architecture and the Runnable interface and member functions to control thread pausing and resuming. 
 
 <!-- #### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
 
