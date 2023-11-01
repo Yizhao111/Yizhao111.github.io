@@ -6,7 +6,7 @@ title: Projects
 Lastest Update: 31th Oct 2023&nbsp; 
 # Research Projects
 
-P.S. click the hyperlink title to access the source.<br>
+<font color='red'>P.S. click the hyperlink title to access the source.</font>
 
 #### [Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning](https://yizhao111.github.io/mypaper/CRS.pdf)
 
@@ -42,7 +42,7 @@ P.S. click the hyperlink title to access the source.<br>
 
 # Open-source Projects
 
-P.S. click the hyperlink title to access the source.
+<font color='red'>P.S. click the hyperlink title to access the source.</font>
 <br>
 
 ## [AI-freight-management-center](https://github.com/Yizhao111/AI-freight-management-center)
