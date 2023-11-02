@@ -13,7 +13,7 @@ Lastest Update: 31th Oct 2023&nbsp; 
 - Oct 2023：**Academic Excellence Award (Top 1%)**
 - Jun 2023：**Best award** in International Foreign Language Test
 - Mar 2023：Outstanding Volunteer Individual in social practice of Northeastern University **(Top 3%)**
-- Mar 2023：Student Representative of HunNan Campus of Northeastern University **(Only 10/2000)**
+- Mar 2023：Student Representative of HunNan Campus of Northeastern University **(Only 2/2000)**
 - Oct 2022：**Excellent Student Cadre Model(Top 1%)**
 - Oct 2022：Second Class Scholarship
 - Oct 2021：Outstanding Student of NEU **(Top 3%)**
