@@ -20,7 +20,7 @@ Lastest Update: 31th Oct 2023&nbsp;
 
 ## Working Manuscript
 
-- Applying models on On-chain data to predict regimes in Bitcoin<br>**Yizhao Chen**, Like’er Xu, Guhan Chen.<br>The International Conference on Database Systems for Advanced Applications(DASFAA)<br>(Under working)
+- Applying models on On-chain data to predict regimes in Bitcoin<br>**Yizhao Chen**, Like’er Xu, Guhan Chen.<br>(Under working)
 
   <br>
 
