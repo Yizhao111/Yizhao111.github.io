@@ -7,8 +7,13 @@ title: Blogs
 ## Blogs
 
 ### 2023
+20岁，何妨吟啸且徐行<br>
 
-- 21岁，何妨吟啸且徐行<br>
+---
+- [申请回忆录](https://Yizhao111.github.io/blogs/shenqing2023)<br>
+- [我的外公](https://Yizhao111.github.io/blogs/waigong2023)<br>
+
+<!-- - 21岁，何妨吟啸且徐行<br>
 - [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)<br>
 - [极简风个人网站搭建指南（完结）](https://caihanlin.com/blogs/web)
 
@@ -26,7 +31,7 @@ title: Blogs
 ### 2020
 
 - [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
+- [本科博客，笔记，回忆录](https://mieclance.club/) -->
 
 <br>
 
