@@ -4,7 +4,7 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Chinese Blogs
+## Blogs
 
 ### 2023
 
@@ -30,14 +30,6 @@ title: Blogs
 
 <br>
 
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
-
 ## Web Star History
 
-[Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io)
+[Leave a star if you like it 🥰](https://github.com/Yizhao111/Yizhao111.github.io)
