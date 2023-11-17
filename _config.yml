@@ -47,10 +47,11 @@ links:
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Visitors
-    url: /visitors/
   - title: Blogs
     url: /blogs/
+  - title: Visitors
+    url: /visitors/
+
   # - title: Projects2
   #   url: /project 
 
