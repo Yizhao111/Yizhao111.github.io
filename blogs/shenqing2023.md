@@ -35,39 +35,30 @@ title: shenqing2023
 
 ### 一些前置资料与信息
 
-文书：
+文书：[https://www.cantabenglish.com/blog/sop_writing_tips](https://www.cantabenglish.com/blog/sop_writing_tips)
 
-[https://www.cantabenglish.com/blog/sop_writing_tips](https://www.cantabenglish.com/blog/sop_writing_tips)
+<br>CV：[https://www.cantabenglish.com/blog/howtowriteenglishcv](https://www.cantabenglish.com/blog/howtowriteenglishcv)
 
-<br>CV：
+<br>推荐信：[https://www.cantabenglish.com/blog/reference_letters](https://www.cantabenglish.com/blog/reference_letters)
 
-[https://www.cantabenglish.com/blog/howtowriteenglishcv](https://www.cantabenglish.com/blog/howtowriteenglishcv)
-
-<br>推荐信：
-
-https://www.cantabenglish.com/blog/reference_letters
-
-<br>选校：
-+
-https://opencs.app/
+<br>选校：[https://opencs.app/](https://opencs.app/)
 
 <br>分享：
 
-Jiayi Wei(https://trinkle23897.github.io/posts/application#%E4%B8%80%E4%BA%9B%E5%89%8D%E7%BD%AE%E8%B5%84%E6%96%99)
+- [Jiayi Wei](https://trinkle23897.github.io/posts/application#%E4%B8%80%E4%BA%9B%E5%89%8D%E7%BD%AE%E8%B5%84%E6%96%99)
 
-Mingrui Zhang(https://zhang-ming-rui.gitbook.io/when-rocket-launches/)
+- [Mingrui Zhang](https://zhang-ming-rui.gitbook.io/when-rocket-launches/)
 
-https://stormraiser.me/2020/04/01/%e5%b1%b1%e7%a9%b7%e6%b0%b4%e5%b0%bd/
+- [https://stormraiser.me/2020/04/01/%e5%b1%b1%e7%a9%b7%e6%b0%b4%e5%b0%bd/](https://stormraiser.me/2020/04/01/%e5%b1%b1%e7%a9%b7%e6%b0%b4%e5%b0%bd/)
 
 
 ------
 
 ### 每日更新进度：
-
-<br>**11.17：**
-- blog搭建
-- waigong回忆录搭建起草
-- 申请随笔搭建
+**11.17：**
+- blog整体搭建
+- 外公回忆录blog搭建起草
+- 申请随笔blog搭建
 - 选校
 
 <br>今天是我回到南京的第二天，前往南林大图书馆学习。昨天休息了一天，生活逐步回到正轨。眼下的事情还比较多和杂，首要的两个事情就是选校敲定、动机撰写、推荐信修改。我需要在后天晚上前完成这三样事情，任务还是比较艰巨。另外个人网站也需要一定修改。今天总的来说是一直在做事，不知道为什么心情比较低落和沉重，可能是和我外公的事有关。不想打王者看b站，偶尔的休息也就是看眼xhs。接下来的ddl是12.1，算下来就是下下个周四，工作日也就10天左右了，可能还有video，需要抓紧了。
