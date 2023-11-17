@@ -9,16 +9,17 @@ title: shenqing2023
 
 > 记录一下申请的过程
 >
-> 也不枉费这一段时光
+> 也不枉费这一段时间
 >
 > 无论结果如何，这都是我人生中重要的一段时光
 
 ### 11.17前
-<br>步入11月来的这半个月，基本上都在老家，几乎没有动过申请。一方面确实是没有太多的时间和心思放在这里，一方面也是我最近比较懒。不过现在回到了南京，要开始行动起来了
+
+步入11月来的这半个月，基本上都在老家，几乎没有动过申请。一方面确实是没有太多的时间和心思放在这里，一方面也是我最近比较懒。不过现在回到了南京，要开始行动起来了
 
 <br>写这个随笔前，已有托福和GRE成绩。sop完稿Upenn一篇，CV改完2版，推荐信已有初稿，已有初步选校清单。
 
-<br>待完成事项：
+<br>**待完成事项：**
 
 - 推荐信检查更新
 - sop细过一遍，并且去评估
@@ -30,17 +31,17 @@ title: shenqing2023
 - ........
 
 
-<br>首先
+
 
 ### 一些前置资料与信息
 
 文书：
 
-https://www.cantabenglish.com/blog/sop_writing_tips
+[https://www.cantabenglish.com/blog/sop_writing_tips](https://www.cantabenglish.com/blog/sop_writing_tips)
 
 CV：
 
-https://www.cantabenglish.com/blog/howtowriteenglishcv
+[https://www.cantabenglish.com/blog/howtowriteenglishcv](https://www.cantabenglish.com/blog/howtowriteenglishcv)
 
 推荐信：
 
@@ -72,6 +73,8 @@ https://stormraiser.me/2020/04/01/%e5%b1%b1%e7%a9%b7%e6%b0%b4%e5%b0%bd/
 <br>今天是我回到南京的第二天，前往南林大图书馆学习。昨天休息了一天，生活逐步回到正轨。眼下的事情还比较多和杂，首要的两个事情就是选校敲定、动机撰写、推荐信修改。我需要在后天晚上前完成这三样事情，任务还是比较艰巨。另外个人网站也需要一定修改。今天总的来说是一直在做事，不知道为什么心情比较低落和沉重，可能是和我外公的事有关。不想打王者看b站，偶尔的休息也就是看眼xhs。接下来的ddl是12.1，算下来就是下下个周四，工作日也就10天左右了，可能还有video，需要抓紧了。
 
 <p align="right">Lastest Update: 19:35</p>
+
+------
 
 <!-- <br>而Camb暑研最后的成果考评是基于以下三个部分：
 
