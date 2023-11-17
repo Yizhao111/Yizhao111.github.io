@@ -15,7 +15,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
   github: Yizhao111
-  #linkedin: hanlincai
+  linkedin: https://www.linkedin.com/in/%E8%89%BA%E9%92%8A-%E9%99%88-2822b529a/
   #Google Scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   #bilibili: https://space.bilibili.com/698886387?spm_id_from=333.1007.0.0
   #researchgate: https://www.researchgate.net/profile/Hanlin-Cai
@@ -47,8 +47,8 @@ links:
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  # - title: Blogs
+  #   url: /blogs/
   - title: Visitors
     url: /visitors/
 
