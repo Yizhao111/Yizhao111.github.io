@@ -39,19 +39,19 @@ title: shenqing2023
 
 [https://www.cantabenglish.com/blog/sop_writing_tips](https://www.cantabenglish.com/blog/sop_writing_tips)
 
-CV：
+<br>CV：
 
 [https://www.cantabenglish.com/blog/howtowriteenglishcv](https://www.cantabenglish.com/blog/howtowriteenglishcv)
 
-推荐信：
+<br>推荐信：
 
 https://www.cantabenglish.com/blog/reference_letters
 
-选校：
+<br>选校：
 
 https://opencs.app/
 
-分享：
+<br>分享：
 
 Jiayi Wei(https://trinkle23897.github.io/posts/application#%E4%B8%80%E4%BA%9B%E5%89%8D%E7%BD%AE%E8%B5%84%E6%96%99)
 
@@ -62,9 +62,9 @@ https://stormraiser.me/2020/04/01/%e5%b1%b1%e7%a9%b7%e6%b0%b4%e5%b0%bd/
 
 ------
 
-<br>每日更新进度：
+### 每日更新进度：
 
-<br>11.17：
+<br>**11.17：**
 - blog搭建
 - waigong回忆录搭建起草
 - 申请随笔搭建
