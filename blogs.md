@@ -7,11 +7,12 @@ title: Blogs
 ## Blogs
 
 ### 2023
-20岁，何妨吟啸且徐行<br>
+20岁，山高路亦远<br>
 
 ---
-- [申请回忆录](https://Yizhao111.github.io/blogs/shenqing2023)<br>
 - [我的外公](https://Yizhao111.github.io/blogs/waigong2023)<br>
+- [申请随记](https://Yizhao111.github.io/blogs/shenqing2023)<br>
+
 
 <!-- - 21岁，何妨吟啸且徐行<br>
 - [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)<br>
