@@ -36,6 +36,7 @@ title: Blogs
 
 <br>
 
-**Web Star History**
+---
+<br>**Web Star History**
 
 [Leave a star if you like it 🥰](https://github.com/Yizhao111/Yizhao111.github.io)
