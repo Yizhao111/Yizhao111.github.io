@@ -10,13 +10,12 @@ owner:
   avatar: cat.png
  # bio:
   email: 545114583@qq.com
-  cv: 
-  #cv: https://yizhao111.github.io/file/RESUME_CYZ 1027.pdf 
+  cv: https://yizhao111.github.io/file/RESUME_CYZ 1027.pdf 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
-  github: Yizhao111
-  linkedin: https://www.linkedin.com/in/
-  blog: https://yizhao111.github.io/blogs/
+  #github: Yizhao111
+  #linkedin: https://www.linkedin.com/in/
+  #blog: https://yizhao111.github.io/blogs/
   #Google Scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # bilibili: https://space.bilibili.com/698886387?spm_id_from=333.1007.0.0
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
@@ -49,7 +48,7 @@ links:
   - title: Hobbies
     url: /hobbies/
   # - title: Blogs
-    url: /blogs/
+    url: /hobbies/
   - title: Visitors
     url: /visitors/
 
