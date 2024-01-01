@@ -8,23 +8,23 @@ layout: page
 
 Here is **Yizhao Chen(Steven, 陈艺钊)**.
 
-I am a fourth-year **bachelor’s** student at **Northeastern University**, majoring in **Software Engineering**. Besides a strong interest in coding, I’m also keen on mathematics. 
+I am a fourth-year **bachelor’s** student at **Northeastern University**, majoring in **Software Engineering**. Besides a strong interest in coding, I’m also keen on mathematics.
 
 Currently, I work as a research assistant in the NEUDM-Lab, advised by [Prof. Shi Fen](http://faculty.neu.edu.cn/cse/fengshi). I have worked as a remote research assistant at Carnegie Mellon University, advised by [Prof. David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/). I also spent a lovely summer research program with [Prof. Hien Tran](https://math.sciences.ncsu.edu/people/tran/)'s team at NC State University.
 
 I currently have a focus on inverse rendering problems, especially on the part of the **Conversational Recommendation** and **Reinfor-cement Learning**.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *545114583@qq.com* 
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *545114583@qq.com*
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for Master to start in 2024 Fall. Contact me if you have any leads!**
+<font color='red'>[Highlight]</font> I am looking for Master to start in 2024 Fall! \*\*
+
+<!-- <font color='red'> Expect to apply for a two-year Mphil/MSc program and graduate in June 2026. Looking for PhD position after that. -->
 
 - **Sep 2020 - June 2024:** Northeastern University (BEng)
-
-- Expect to apply for a two-year Mphil/MSc program and graduate in June 2026. Looking for PhD position after that.
 
 <br>
 
@@ -32,8 +32,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Conversational Recommendation System
-- Multi-agent Reinforcement Learning
+- Conversational AI
+- Data-Centric AI
+- Recommendation System
 - Applied Machine Learning
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Recommendation System** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody. I wish to devote my talent to this meaningful cause and bring well-being to society.
@@ -44,9 +45,9 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **May 2023：**Work as a research assistant in the [NEUDM-Lab](https://github.com/NEU-DataMining/), advised by Prof. Shi Fen.
-- **Aug 2022：**Worked as a remote research assistant at [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. David P.Woodruff.
-- **Jun 2022：**Started research program at [NC State University](https://www.ncsu.edu/), advised by Prof. Hien Tran.
+- **May 2023：**Work as a research assistant in the [NEUDM-Lab](https://github.com/NEU-DataMining/), focusing on developing a large-scale empathetic dialogue AI model and enhancing diversity in Conversational Recommendation system with Multi-agent Reinforcement Learning, advised by Prof. Shi Fen.
+- **Aug 2022：**Worked as a remote research assistant at [Carnegie Mellon University](https://www.cmu.edu/), focusing on employing causal analysis and optimizing Gaussian mixture algorithmic structure to reduce exposure bias in recommendation systems, advised by Prof. David P.Woodruff.
+- **Jun 2022：**Started research program at [NC State University](https://www.ncsu.edu/), fousing on utilizing machining learning methods to predict and explain Regime Switching, advised by Prof. Hien Tran.
 
 <br>
 
