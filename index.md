@@ -20,7 +20,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-<font color='red'>I am looking for Master to start in 2024 Fall!</font> I am looking for Master to start in 2024 Fall! \*\*
+<font color='red'>I am looking for Master to start in 2024 Fall!\*\*</font>
 
 <!-- <font color='red'> Expect to apply for a two-year Mphil/MSc program and graduate in June 2026. Looking for PhD position after that. -->
 
