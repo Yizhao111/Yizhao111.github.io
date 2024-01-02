@@ -14,17 +14,17 @@ Currently, I work as a research assistant in the NEUDM-Lab, advised by [Prof. Sh
 
 I currently have a focus on inverse rendering problems, especially on the part of the **Conversational Recommendation** and **Reinfor-cement Learning**.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at _1zhoazhao1[dot]gmail.com_
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at _1zhoazhao1@gmail.com_
 
 <br>
 
-## Academic Background
+<!-- ## Academic Background -->
 
-<font color='red'>I am looking for Master to start in 2024 Fall!\*\*</font>
+<font color='red'>I am looking for Master to start in 2024 Fall !</font>
 
 <!-- <font color='red'> Expect to apply for a two-year Mphil/MSc program and graduate in June 2026. Looking for PhD position after that. -->
 
-- **Sep 2020 - June 2024:** Northeastern University (BEng)
+<!-- - **Sep 2020 - June 2024:** Northeastern University (BEng) -->
 
 <br>
 
