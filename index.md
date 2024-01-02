@@ -14,13 +14,13 @@ Currently, I work as a research assistant in the NEUDM-Lab, advised by [Prof. Sh
 
 I currently have a focus on inverse rendering problems, especially on the part of the **Conversational Recommendation** and **Reinfor-cement Learning**.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *545114583@qq.com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at _1zhoazhao1[dot]gmail.com_
 
 <br>
 
 ## Academic Background
 
-<font color='red'>[Highlight]</font> I am looking for Master to start in 2024 Fall! \*\*
+<font color='red'>I am looking for Master to start in 2024 Fall!</font> I am looking for Master to start in 2024 Fall! \*\*
 
 <!-- <font color='red'> Expect to apply for a two-year Mphil/MSc program and graduate in June 2026. Looking for PhD position after that. -->
 
@@ -37,7 +37,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Recommendation System
 - Applied Machine Learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Recommendation System** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody. I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical and data-related problems that artificial intelligence faces in real life. My interests are on the **Recommendation System** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
@@ -45,9 +45,10 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **May 2023：**Work as a research assistant in the [NEUDM-Lab](https://github.com/NEU-DataMining/), focusing on developing a large-scale empathetic dialogue AI model and enhancing diversity in Conversational Recommendation system with Multi-agent Reinforcement Learning, advised by Prof. Shi Fen.
-- **Aug 2022：**Worked as a remote research assistant at [Carnegie Mellon University](https://www.cmu.edu/), focusing on employing causal analysis and optimizing Gaussian mixture algorithmic structure to reduce exposure bias in recommendation systems, advised by Prof. David P.Woodruff.
-- **Jun 2022：**Started research program at [NC State University](https://www.ncsu.edu/), fousing on utilizing machining learning methods to predict and explain Regime Switching, advised by Prof. Hien Tran.
+- **May 2023：**Started interning as a system development engineer at Neusoft Group.
+- **March 2023：**Started Working as a research assistant in the [NEUDM-Lab](https://github.com/NEU-DataMining/), focusing on developing a large-scale empathetic dialogue AI model and enhancing diversity in Conversational Recommendation system with Multi-agent Reinforcement Learning, advised by [Prof. Shi Fen](http://faculty.neu.edu.cn/cse/fengshi).
+- **Aug 2022：**Started Working as a remote research assistant at [Carnegie Mellon University](https://www.cmu.edu/), focusing on employing causal analysis and optimizing Gaussian mixture algorithmic structure to reduce exposure bias in recommendation systems, advised by [Prof. David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/).
+- **Jun 2022：**Started research program at [NC State University](https://www.ncsu.edu/), fousing on utilizing machining learning methods to predict and explain Regime Switching, advised by [Prof. Hien Tran](https://math.sciences.ncsu.edu/people/tran/).
 
 <br>
 
