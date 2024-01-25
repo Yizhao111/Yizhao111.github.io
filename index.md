@@ -32,7 +32,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - Conversational AI
 - Data-Centric AI
-- Recommendation System
 - Applied Machine Learning
 
 My current research focuses on practical and data-related problems that artificial intelligence faces in real life. My interests are on the **Conversational AI**, **Recommendation System** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody. I am keen on mitigating data-related biases in AI models, addressing challenges related to data quality and data scarcity. I wish to devote my talent to this meaningful cause and bring well-being to society.
