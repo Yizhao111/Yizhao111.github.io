@@ -4,7 +4,7 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-Lastest Update: 31th Oct 2023&nbsp;
+Lastest Update: 1st Jan 2023&nbsp;
 
 # Research Projects
 

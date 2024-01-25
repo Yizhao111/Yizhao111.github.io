@@ -10,7 +10,7 @@ Here is **Yizhao Chen(Steven, 陈艺钊)**.
 
 I am a fourth-year **bachelor’s** student at **Northeastern University**, majoring in **Software Engineering**. Besides a strong interest in coding, I’m also keen on mathematics.
 
-Currently, I work as a research assistant in the NEUDM-Lab, advised by [Prof. Shi Fen](http://faculty.neu.edu.cn/cse/fengshi). I have worked as a remote research assistant at Carnegie Mellon University, advised by [Prof. David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/). I also spent a lovely summer research program with [Prof. Hien Tran](https://math.sciences.ncsu.edu/people/tran/)'s team at NC State University.
+Currently, I work as a research assistant in the NEUDM-Lab, advised by [Prof. Shi Fen](http://faculty.neu.edu.cn/cse/fengshi). I have worked as a remote undergraduate student researcher at Carnegie Mellon University, advised by [Prof. David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/). I also spent a lovely summer research program with [Prof. Hien Tran](https://math.sciences.ncsu.edu/people/tran/)'s team at NC State University.
 
 I currently have a focus on inverse rendering problems, especially on the part of the **Data-Centric AI** and **Conversational System**.
 
@@ -45,7 +45,7 @@ My current research focuses on practical and data-related problems that artifici
 
 - **May 2023：**Started interning as a system development engineer at [Neusoft Group](https://www.neusoft.com/cn/).
 - **March 2023：**Started Working as a research assistant in the [NEUDM-Lab](https://github.com/NEU-DataMining/), focusing on developing a large-scale empathetic dialogue AI model and enhancing diversity in Conversational Recommendation system with Multi-agent Reinforcement Learning, advised by [Prof. Shi Fen](http://faculty.neu.edu.cn/cse/fengshi).
-- **Aug 2022：**Started Working as a remote research assistant at [Carnegie Mellon University](https://www.cmu.edu/), focusing on employing causal analysis and optimizing Gaussian mixture algorithmic structure to reduce exposure bias in recommendation systems, advised by [Prof. David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/).
+- **Aug 2022：**Started Working as a remote undergraduate student researcher at [Carnegie Mellon University](https://www.cmu.edu/), focusing on employing causal analysis and optimizing Gaussian mixture algorithmic structure to reduce exposure bias in recommendation systems, advised by [Prof. David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/).
 - **Jun 2022：**Started research program at [NC State University](https://www.ncsu.edu/), fousing on utilizing machining learning methods to predict and explain Regime Switching, advised by [Prof. Hien Tran](https://math.sciences.ncsu.edu/people/tran/).
 
 <br>
