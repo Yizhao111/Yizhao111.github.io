@@ -6,7 +6,7 @@ title: Projects
 
 Lastest Update: 1st Jan 2023&nbsp;
 
-## Research Projects
+## Research Experience
 
 #### [Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning [PDF]](https://yizhao111.github.io/mypaper/CRS.pdf)
 
@@ -48,15 +48,13 @@ Lastest Update: 1st Jan 2023&nbsp;
 This is an AI-powered software system for managing and tracking logistics and distribution operations. I am responsible for designing and implementing the Customer Service Center module.<br><br>
 **In this project, I:**
 
-- Collaborated with the development team to create an AI-powered software system for managing and tracking logistics and distribution operations, responsible for designing and implementing the Customer Service Center module;
+- Created an AI-powered software system for managing and tracking logistics and distribution operations;
 - Integrated a T5 model-trained "Knowledge-Based Q&A System" into the Customer Service Center module, enabling the creation of an intelligent chatbot that operates while safeguarding company privacy;
-- Employed Vue3 and Bootstrap component library with Streamlit to design user-friendly interfaces that enhanced user experience, meanwhile establishing a robust proxy between frontend and backend using Nginx to improve system stability and responsiveness
 - Enhanced interface call logs and implemented error information alerts based on these logs, addressing slow query performances and system timeouts due to database indexing errors and primary key modifications;
 - Handled unique cases like resource ID bypassing and resolved customer deletion issues due to state modification logic, addressing domain access issues and database connection pool inefficiencies;
-- Employed Vue3 and Bootstrap component library with Streamlit to design user-friendly interfaces that enhanced user experience, meanwhile establishing a robust proxy between frontend and backend using Nginx to improve system stability and responsiveness;
 - Integrated Flink into Spring Boot using a thread pool in non-blocking operation for message stream processing, utilized Neo4j for managing recommendation data, and employed JSoup for web scraping
 
-### [A Simulated Banking System [Code]](https://github.com/Yizhao111/AI-freight-management-center)
+### [Simulated Banking System [Code]](https://github.com/Yizhao111/AI-freight-management-center)
 
 Here is a banking simulation system enabling features for simulating banking transactions and batch task processing, functions included fund transfers, salary payments, withdrawals, deposits, and interest calculations.<br><br>
 **In this project, I:**
