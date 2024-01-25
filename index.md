@@ -12,7 +12,7 @@ I am a fourth-year **bachelor’s** student at **Northeastern University**, majo
 
 Currently, I work as a research assistant in the NEUDM-Lab, advised by [Prof. Shi Fen](http://faculty.neu.edu.cn/cse/fengshi). I have worked as a remote research assistant at Carnegie Mellon University, advised by [Prof. David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/). I also spent a lovely summer research program with [Prof. Hien Tran](https://math.sciences.ncsu.edu/people/tran/)'s team at NC State University.
 
-I currently have a focus on inverse rendering problems, especially on the part of the **Conversational Recommendation** and **Data-Centric AI**.
+I currently have a focus on inverse rendering problems, especially on the part of the **Data-Centric AI** and **Conversational System**.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at _1zhoazhao1@gmail.com_.
 
@@ -35,7 +35,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Recommendation System
 - Applied Machine Learning
 
-My current research focuses on practical and data-related problems that artificial intelligence faces in real life. My interests are on the **Recommendation System**, **Conversational AI** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody. I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical and data-related problems that artificial intelligence faces in real life. My interests are on the **Conversational AI**, **Recommendation System** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody. I am keen on mitigating data-related biases in AI models, addressing challenges related to data quality and data scarcity. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
