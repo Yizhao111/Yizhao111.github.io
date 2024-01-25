@@ -43,9 +43,15 @@ Lastest Update: 1st Jan 2023&nbsp;
 
 ## Open-source Projects
 
-### [AI-freight-management-center [Code]](https://github.com/Yizhao111/AI-freight-management-center)
+### [AI-freight-management-center [Code]](https://github.com/Yizhao111/AI-freight-management-center)[PDF](https://Yizhao111.github.io/mypaper/freight.pdf)
 
 This is an AI-powered software system for managing and tracking logistics and distribution operations. I am responsible for designing and implementing the Customer Service Center module.<br><br>
+
+<center>
+<img src="/images/freight.png" width="473" height="219">
+</center>
+<br>
+
 **In this project, I:**
 
 - Created an AI-powered software system for managing and tracking logistics and distribution operations;
