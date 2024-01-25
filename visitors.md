@@ -4,7 +4,7 @@ permalink: /visitors/index.html
 title: Visitors
 ---
 
-Lastest Update: 31th Oct 2023&nbsp;
+Lastest Update: 1st Jan 2023&nbsp;
 
 ## Visitor Log
 
@@ -13,7 +13,7 @@ Lastest Update: 31th Oct 2023&nbsp;
 
 ---
 
-### Blogs
+## Blogs
 
 #### 2023
 

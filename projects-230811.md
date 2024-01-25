@@ -6,7 +6,7 @@ title: Projects
 
 Lastest Update: 1st Jan 2023&nbsp;
 
-# Research Projects
+## Research Projects
 
 #### [Diversity-enhanced Conversational Recommendation with Multi-agent Reinforcement Learning [PDF]](https://yizhao111.github.io/mypaper/CRS.pdf)
 
@@ -41,7 +41,7 @@ Lastest Update: 1st Jan 2023&nbsp;
 
 ---
 
-# Open-source Projects
+## Open-source Projects
 
 ### [AI-freight-management-center [Code]](https://github.com/Yizhao111/AI-freight-management-center)
 
