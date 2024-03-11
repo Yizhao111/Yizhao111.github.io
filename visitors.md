@@ -6,7 +6,7 @@ title: Visitors
 
 Lastest Update: 1st Jan 2023&nbsp;
 
-## Blogs
+## Blogs<br>
 
 #### 2024
 
@@ -14,8 +14,6 @@ Lastest Update: 1st Jan 2023&nbsp;
 
 - [找工随记](https://Yizhao111.github.io/blogs/zhaogong2024)<br>
   <br>
-
----
 
 #### 2023
 
