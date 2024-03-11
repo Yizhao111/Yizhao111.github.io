@@ -6,6 +6,10 @@ title: Blogs
 
 ## Blogs
 
+### 2024
+
+- [找工随记](https://Yizhao111.github.io/blogs/zhaogong2024)<br>
+
 ### 2023
 
 20 岁，山高路亦远<br>
