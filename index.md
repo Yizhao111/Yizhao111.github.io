@@ -48,6 +48,3 @@ My current research focuses on practical and data-related problems that artifici
 - **Jun 2022：**Started research program at [NC State University](https://www.ncsu.edu/), fousing on employed hybrid machine learning algorithms along with time-series analysis, using Gaussian Markov models and Autoregressive models to detect and explain regime switches in the Bitcoin market, advised by [Prof. Hien Tran](https://math.sciences.ncsu.edu/people/tran/).
 
 <br>
-<!-- - **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%). -->
