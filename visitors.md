@@ -6,14 +6,15 @@ title: Visitors
 
 Lastest Update: 1st Jan 2023&nbsp;
 
-## Visitor Log
+## Blogs
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HOkp542jK9mEk1kvXvRzv0cR1-UhIS9iO5m5TkZ9fgU&cl=ffffff&w=a"></script>
-<br>
+#### 2024
+
+欲买桂花同载酒，终不似，少年游<br>
 
 ---
 
-## Blogs
+- [找工随记](https://Yizhao111.github.io/blogs/zhaogong2024)<br>
 
 #### 2023
 
@@ -23,6 +24,14 @@ Lastest Update: 1st Jan 2023&nbsp;
 
 - [我的外公](https://Yizhao111.github.io/blogs/waigong2023)<br>
 - [申请随记](https://Yizhao111.github.io/blogs/shenqing2023)<br>
+  <br>
+
+## Visitor Log
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HOkp542jK9mEk1kvXvRzv0cR1-UhIS9iO5m5TkZ9fgU&cl=ffffff&w=a"></script>
+<br>
+
+---
 
 <!-- - 21岁，何妨吟啸且徐行<br>
 - [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)<br>
